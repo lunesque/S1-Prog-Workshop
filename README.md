@@ -18,8 +18,7 @@ Utiliser la formule pour obtenir la luminosité des couleurs et mettre tous les 
 
 ## Exo 4 : Négatif
 
-![negative](/output/negative.png "negative")
-Comme la valeur des couleurs va de 0 (noir) à 1 (blanc), il suffit de faire color = 1 - color.
+![invert](/output/invert.png "invert")
 
 ## Exo 5 : Dégradé
 
@@ -27,8 +26,7 @@ Comme la valeur des couleurs va de 0 (noir) à 1 (blanc), il suffit de faire col
 
 ## Exo 6 : Miroir
 
-![vertical flip fail](/output/vertical_flip-fail.png "vertical flip fail")
-![vertical flip](/output/vertical_flip.png "vertical flip")
+![vertical flip](/output/mirror.png "vertical flip")
 
 ## Exo 7 : Image bruitée
 
@@ -36,30 +34,60 @@ Comme la valeur des couleurs va de 0 (noir) à 1 (blanc), il suffit de faire col
 
 ## Exo 8 : Rotation de 90°
 
+![rotate](/output/rotate.png "rotate")
+
 ## Exo 9 : RGB split
+
+![chromatic abberation](/output/chromatic_abberation.png "rotate")
 
 ## Exo 10 : Luminosité
 
+| ![photo](/images/photo.jpg "photo") | ![lighten](/output/lighten.png "lighten") | ![darken](/output/darken.png "darken") |
+| ----------------------------------- | ----------------------------------------- | -------------------------------------- |
+
 ## Exo 11 : Disque
+
+![disk](/output/disk.png "disk")
 
 ## Exo 12 : Cercle
 
+![circle](/output/circle.png "circle")
+
 ## Exo 13 : Animation
+
+![animated](/output/animated.gif "animated")
 
 ## Exo 14 : Rosace
 
+![rosette](/output/rosette.png "rosette")
+
 ## Exo 15 : Mosaïque
+
+![mosaic](/output/mosaic.png "mosaic")
 
 ## Exo 16 : Mosaïque miroir
 
+![mirrored mosaic](/output/mirror_mosaic.png "mirrored mosaic")
+
 ## Exo 17 : Glitch
+
+![glitch](/output/glitch.png "glitch")
 
 ## Exo 18 : Tri de pixels
 
+| ![sort all](/output/sort_all.png "sort all") | ![sort lines](/output/sort_line.png "sort lines") | ![sort random](/output/sort_random.png "sort random") |
+| -------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
+
 ## Exo 19 : Fractale de Mandelbrot
+
+![fractal](/output/fractal.png "fractal")
 
 ## Exo 20 : Dégradés dans l'espace de couleur Lab
 
+| sRGB                                                                          | Linear RGB                                                                                      |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![color gradient in sRGB](/output/srgb_gradient.png "color gradient in sRGB") | ![color gradient in linear RGB](/output/linear_rgb_gradient.png "color gradient in linear RGB") |
+
 ## Exo 21 : Tramage
 
-## Exo 22 : Normalisation de l'histogramme
+![dithering](/output/dithering.png "dithering")
